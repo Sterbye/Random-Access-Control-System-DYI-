@@ -1,7 +1,7 @@
 Simple DYI project for my friend. 
 Random-Access-Control-System.
 
-HW Setup used: Arduino UNO R3, RFID-RC522, I2C Display (16x2), 1x Green Light, 1x Red Light. 
+HW Setup used: Arduino UNO R3, RFID-RC522, I2C Display (16x2), 1x Green Light, 1x Red Light, Buzzer. 
 Feel free to use and edit the code. 
 
 Coded in Arduino IDE.
